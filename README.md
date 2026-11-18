@@ -1,7 +1,7 @@
 # Generated autonomous-agent-bootstrap artifact
 
 Source branch: fix/pi-repository-ownership
-Source commit: b4ab4fedd6d73f66bd87803b821ba121cbaa5c63
+Source commit: 1df7e0c4ad0d020b40d504e653c89d42f928bfee
 
 Curl this generated artifact with:
 
